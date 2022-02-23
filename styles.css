@@ -1,0 +1,53 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+.header {
+    display: flex;
+    width: 50%;
+    border: purple solid 0px;
+    
+   
+}
+
+#icono-html {
+    font-size: xx-large;
+    padding-top: 1.2%;
+    margin-right: 0.4%;
+}
+
+#ellipsis {
+    margin-left: auto;
+    font-size: xx-large;
+    padding-top: 1.8%;
+    margin-right: 1%;
+}
+
+#perrito {
+    width: 50%;
+}
+
+.barra-opciones {
+    display: flex;
+    font-size: xx-large;
+    width: 50%;
+}
+
+#bookmark-icon {
+    margin-left: auto; 
+    margin-right: 1%;
+}
+
+.barra-opciones i {
+    margin-left: 2%;
+}
+
+.liked_by, .caption {
+    display: flex;
+    width: 50%;
+    
+}
